@@ -4,7 +4,7 @@
   <title><![CDATA[Roma Realm]]></title>
   <link href="http://romachen.github.com/atom.xml" rel="self"/>
   <link href="http://romachen.github.com/"/>
-  <updated>2012-01-02T21:55:51+08:00</updated>
+  <updated>2012-01-03T00:16:01+08:00</updated>
   <id>http://romachen.github.com/</id>
   <author>
     <name><![CDATA[Roma CHEN]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[开始]]></title>
+    <link href="http://romachen.github.com/blog/2012/01/03/kai-shi/"/>
+    <updated>2012-01-03T00:07:00+08:00</updated>
+    <id>http://romachen.github.com/blog/2012/01/03/kai-shi</id>
+    <content type="html"><![CDATA[<p>真的要开始写博客了，希望能坚持下来。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[open classroom]]></title>
