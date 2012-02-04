@@ -4,7 +4,7 @@
   <title><![CDATA[Roma Realm]]></title>
   <link href="http://romachen.github.com/atom.xml" rel="self"/>
   <link href="http://romachen.github.com/"/>
-  <updated>2012-01-31T22:48:41+08:00</updated>
+  <updated>2012-02-04T17:34:25+08:00</updated>
   <id>http://romachen.github.com/</id>
   <author>
     <name><![CDATA[Roma CHEN]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[try categories]]></title>
+    <link href="http://romachen.github.com/blog/2012/02/01/try-categories/"/>
+    <updated>2012-02-01T11:01:00+08:00</updated>
+    <id>http://romachen.github.com/blog/2012/02/01/try-categories</id>
+    <content type="html"><![CDATA[<p>only a test of octopress</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[开始]]></title>

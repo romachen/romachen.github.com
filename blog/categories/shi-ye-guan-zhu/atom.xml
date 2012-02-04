@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: shi-ye-guan-zhu | Roma Realm]]></title>
+  <link href="http://romachen.github.com/blog/categories/shi-ye-guan-zhu/atom.xml" rel="self"/>
+  <link href="http://romachen.github.com/"/>
+  <updated>2012-02-04T17:34:26+08:00</updated>
+  <id>http://romachen.github.com/</id>
+  <author>
+    <name><![CDATA[Roma CHEN]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[try categories]]></title>
+    <link href="http://romachen.github.com/blog/2012/02/01/try-categories/"/>
+    <updated>2012-02-01T11:01:00+08:00</updated>
+    <id>http://romachen.github.com/blog/2012/02/01/try-categories</id>
+    <content type="html"><![CDATA[<p>only a test of octopress</p>
+]]></content>
+  </entry>
+  
+</feed>
