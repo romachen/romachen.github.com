@@ -4,7 +4,7 @@
   <title><![CDATA[Roma Realm]]></title>
   <link href="http://romachen.github.com/atom.xml" rel="self"/>
   <link href="http://romachen.github.com/"/>
-  <updated>2012-02-04T23:43:52+08:00</updated>
+  <updated>2012-02-04T23:45:43+08:00</updated>
   <id>http://romachen.github.com/</id>
   <author>
     <name><![CDATA[Roma CHEN]]></name>
@@ -14,37 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[try categories]]></title>
-    <link href="http://romachen.github.com/blog/2012/02/01/try-categories/"/>
-    <updated>2012-02-01T11:01:00+08:00</updated>
-    <id>http://romachen.github.com/blog/2012/02/01/try-categories</id>
-    <content type="html"><![CDATA[<p>only a test of octopress</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[开始]]></title>
-    <link href="http://romachen.github.com/blog/2012/01/03/kai-shi/"/>
-    <updated>2012-01-03T00:07:00+08:00</updated>
-    <id>http://romachen.github.com/blog/2012/01/03/kai-shi</id>
-    <content type="html"><![CDATA[<p>真的要开始写博客了，希望能坚持下来。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[open classroom]]></title>
-    <link href="http://romachen.github.com/blog/2012/01/02/open-classroom/"/>
-    <updated>2012-01-02T16:26:00+08:00</updated>
-    <id>http://romachen.github.com/blog/2012/01/02/open-classroom</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[new-post]]></title>
-    <link href="http://romachen.github.com/blog/2012/01/02/new-post/"/>
-    <updated>2012-01-02T16:26:00+08:00</updated>
-    <id>http://romachen.github.com/blog/2012/01/02/new-post</id>
+    <title type="html"><![CDATA[终于配置好我的博客了，Mark纪念一下]]></title>
+    <link href="http://romachen.github.com/blog/2012/02/04/zhong-yu-pei-zhi-hao-wo-de-bo-ke-liao-%2Cmarkji-nian-%5B%3F%5D-xia/"/>
+    <updated>2012-02-04T23:45:00+08:00</updated>
+    <id>http://romachen.github.com/blog/2012/02/04/zhong-yu-pei-zhi-hao-wo-de-bo-ke-liao-,markji-nian-[?]-xia</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
