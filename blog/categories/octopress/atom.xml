@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Roma Realm]]></title>
-  <link href="http://romachen.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | Roma Realm]]></title>
+  <link href="http://romachen.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://romachen.github.com/"/>
   <updated>2012-02-05T15:17:02+08:00</updated>
   <id>http://romachen.github.com/</id>
