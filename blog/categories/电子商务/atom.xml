@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Roma Realm]]></title>
-  <link href="http://romachen.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 电子商务 | Roma Realm]]></title>
+  <link href="http://romachen.github.com/blog/categories/电子商务/atom.xml" rel="self"/>
   <link href="http://romachen.github.com/"/>
   <updated>2012-02-13T14:30:37+08:00</updated>
   <id>http://romachen.github.com/</id>
@@ -34,17 +34,6 @@
 在电子商务的发展进程中，最早出现的是B2C，例如当当和卓越。后出现的是C2C，例如淘宝。但归根结底的说，电子商务，从本质上，始终还是个B2C东西。如果说到真正的C2C，个人认为，还是那些本地网站，如赶集和58同城。想想看，如果淘宝没有那么多的职业卖家，没有那些小摊小贩，真靠非专职化的个人卖家去卖，肯定形成不了现在的规模。</p>
 
 <p>从我个人来看叫卖街今后的商业模式，必然是建立一个网友竞价购物的平台，由商家提供商品，设定保底价格，消费者竞价购物。这样的商务模式，已然遵循了B2C的电子商务本质。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[终于配置好我的博客了，Mark纪念一下]]></title>
-    <link href="http://romachen.github.com/blog/2012/02/04/zhong-yu-pei-zhi-hao-wo-de-bo-ke-liao-%2Cmarkji-nian-%5B%3F%5D-xia/"/>
-    <updated>2012-02-04T23:45:00+08:00</updated>
-    <id>http://romachen.github.com/blog/2012/02/04/zhong-yu-pei-zhi-hao-wo-de-bo-ke-liao-,markji-nian-[?]-xia</id>
-    <content type="html"><![CDATA[<p>说明：<br/>
-1， 博客是基于octopress的。<br/>
-2， 边栏的分类，采用了某台湾Ruby高手的代码。</p>
 ]]></content>
   </entry>
   
